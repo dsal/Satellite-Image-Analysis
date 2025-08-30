@@ -4,6 +4,7 @@ by Ahmad Salehi
 This repository contains optical satellite data products along with Python scripts for the analysis and processing of satellite imagery.
 
 **Landsat 8 Optical Data Products and Spectral Bands**
+
 Landsat 8 is a multispectral Earth observation satellite that provides high-quality optical imagery for environmental monitoring, land cover classification, vegetation analysis, and water quality assessment. The satellite captures data through the Operational Land Imager (OLI), which records surface reflectance in multiple spectral bands. Each band is designed to highlight specific features of the Earth's surface.
 
 
