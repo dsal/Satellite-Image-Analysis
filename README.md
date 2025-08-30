@@ -3,7 +3,7 @@ by Ahmad Salehi
 
 This repository contains optical satellite data products along with Python scripts for the analysis and processing of satellite imagery.
 
-
+To download Landsat-8 data set: https://github.com/dsal/Satellite-Image-Analysis/releases/tag/Landsat_8
 
 **Landsat 8 Optical Data Products and Spectral Bands**
 
