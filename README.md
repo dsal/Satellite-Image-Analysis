@@ -40,6 +40,7 @@ All bands except the thermal (TIRS) and panchromatic bands have 30 m resolution.
 The panchromatic band is 15 m, and thermal bands are 100 m (resampled to 30 m for most products).
 
 # Wyvern
+Dragonette-1 is Wyvern's hyperspectral imaging satellite providing 23 spectral bands across the 503-799 nm wavelength range. It offers 5.3m resolution at nadir with a 20km swath width, ideal for precision agriculture, environmental monitoring, and resource management applications.
 
 ***Wyvern Dragonette Hyperspectral Bands***
 
