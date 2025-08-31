@@ -43,7 +43,7 @@ The panchromatic band is 15 m, and thermal bands are 100 m (resampled to 30 m fo
 
 ***Wyvern Dragonette Hyperspectral Bands***
 
-| Band | Name / Wavelength (nm) | FWHM (nm) | Notes             |
+| Band | Wavelength (nm) | FWHM (nm) | Notes             |
 | ---- | ---------------------- | --------- | ----------------- |
 | 1    | 503                    | 20.1      | Blue-green region |
 | 2    | 510                    | 20.4      | Blue-green region |
