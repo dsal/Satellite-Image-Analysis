@@ -4,6 +4,7 @@ by Ahmad Salehi
 
 This repository contains optical satellite data products along with Python scripts for the analysis and processing of satellite imagery.
 
+# Landsat
 Landsat is the longest continuously operating Earth observation satellite program. The first Landsat satellite was launched in 1972, and the most recent, Landsat 9, was launched in 2021. Landsat missions continue—Landsat Next is in development and will support current spectral bands associated with Landsat 8 and 9, as well as 15 additional bands (26 bands in total; Figure 12.1). Landsat Next is anticipated to launch in 2030.
 
 <img width="792" height="612" alt="image1-5" src="https://github.com/user-attachments/assets/04f5dd0e-c339-4d08-b007-86c166bda915" />
@@ -37,6 +38,8 @@ Landsat 9 essentially continues the Landsat 8 mission, but with OLI-2 and TIRS-2
 All bands except the thermal (TIRS) and panchromatic bands have 30 m resolution.
 
 The panchromatic band is 15 m, and thermal bands are 100 m (resampled to 30 m for most products).
+
+# Wyvern
 
 ***Wyvern Dragonette Hyperspectral Bands***
 
