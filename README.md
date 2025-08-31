@@ -37,3 +37,31 @@ Landsat 9 essentially continues the Landsat 8 mission, but with OLI-2 and TIRS-2
 All bands except the thermal (TIRS) and panchromatic bands have 30 m resolution.
 
 The panchromatic band is 15 m, and thermal bands are 100 m (resampled to 30 m for most products).
+
+***Wyvern Dragonette Hyperspectral Bands***
+
+| Band | Name / Wavelength (nm) | FWHM (nm) | Notes             |
+| ---- | ---------------------- | --------- | ----------------- |
+| 1    | 503                    | 20.1      | Blue-green region |
+| 2    | 510                    | 20.4      | Blue-green region |
+| 3    | 519                    | 20.8      | Green region      |
+| 4    | 535                    | 21.4      | Green region      |
+| 5    | 549                    | 22.0      | Green region      |
+| 6    | 570                    | 22.8      | Yellow region     |
+| 7    | 584                    | 23.4      | Yellow region     |
+| 8    | 600                    | 24.0      | Orange region     |
+| 9    | 614                    | 24.6      | Orange region     |
+| 10   | 635                    | 25.4      | Red region        |
+| 11   | 649                    | 26.0      | Red region        |
+| 12   | 660                    | 26.4      | Red region        |
+| 13   | 669                    | 26.8      | Red region        |
+| 14   | 679                    | 27.2      | Red region        |
+| 15   | 690                    | 27.6      | Red region        |
+| 16   | 699                    | 28.0      | Red region        |
+| 17   | 711                    | 28.4      | Red-edge region   |
+| 18   | 722                    | 28.9      | Red-edge region   |
+| 19   | 734                    | 29.4      | Red-edge region   |
+| 20   | 750                    | 30.0      | NIR region        |
+| 21   | 764                    | 30.6      | NIR region        |
+| 22   | 782                    | 31.3      | NIR region        |
+| 23   | 799                    | 32.0      | NIR region        |
