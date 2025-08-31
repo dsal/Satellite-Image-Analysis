@@ -4,8 +4,9 @@ by Ahmad Salehi
 
 This repository contains optical satellite data products along with Python scripts for the analysis and processing of satellite imagery.
 
-Landsat 9 Optical Data Products and Spectral Bands
+Landsat is the longest continuously operating Earth observation satellite program. The first Landsat satellite was launched in 1972, and the most recent, Landsat 9, was launched in 2021. Landsat missions continue—Landsat Next is in development and will support current spectral bands associated with Landsat 8 and 9, as well as 15 additional bands (26 bands in total; Figure 12.1). Landsat Next is anticipated to launch in 2030.
 
+***Landsat 9 Optical Data Products and Spectral Bands***
 Landsat 9 is a multispectral Earth observation satellite that provides high-quality optical imagery for environmental monitoring, land cover classification, vegetation analysis, and water quality assessment. The satellite captures data through the Operational Land Imager 2 (OLI-2) and the Thermal Infrared Sensor 2 (TIRS-2). Each spectral band is designed to highlight specific features of the Earth's surface, from vegetation and water bodies to thermal properties.
 
 To download Landsat-9 dataset: https://github.com/dsal/Satellite-Image-Analysis/releases/tag/Landsat_9
