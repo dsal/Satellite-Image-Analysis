@@ -8,9 +8,9 @@ Landsat 9 Optical Data Products and Spectral Bands
 
 Landsat 9 is a multispectral Earth observation satellite that provides high-quality optical imagery for environmental monitoring, land cover classification, vegetation analysis, and water quality assessment. The satellite captures data through the Operational Land Imager 2 (OLI-2) and the Thermal Infrared Sensor 2 (TIRS-2). Each spectral band is designed to highlight specific features of the Earth's surface, from vegetation and water bodies to thermal properties.
 
-To download Landsat-9 dataset:
+To download Landsat-9 dataset: https://github.com/dsal/Satellite-Image-Analysis/releases/tag/Landsat_9
 
-**Landsat 9 OLI-2 & TIRS-2 Spectral Bands**
+***Landsat 9 OLI-2 & TIRS-2 Spectral Bands***
 
 | Band | Name                         | Wavelength (µm) | Spatial Resolution (m) | Description                                                      |
 | ---- | ---------------------------- | --------------- | ---------------------- | ---------------------------------------------------------------- |
