@@ -38,8 +38,6 @@ The panchromatic band is 15 m, and thermal bands are 100 m (resampled to 30 m fo
 Dragonette-1 is Wyvern's hyperspectral imaging satellite providing 23 spectral bands across the 503-799 nm wavelength range. It offers 5.3m resolution at nadir with a 20km swath width, ideal for precision agriculture, environmental monitoring, and resource management applications.
 
 ***Wyvern Dragonette Hyperspectral Bands***
-
-# Hyperspectral Bands (Transposed)
 <sub>
 | Attribute         | Band 1 | Band 2 | Band 3 | Band 4 | Band 5 | Band 6 | Band 7 | Band 8 | Band 9 | Band 10 | Band 11 | Band 12 | Band 13 | Band 14 | Band 15 | Band 16 | Band 17 | Band 18 | Band 19 | Band 20 | Band 21 | Band 22 | Band 23 |
 |-------------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
