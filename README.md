@@ -19,14 +19,14 @@ To download Landsat-9 dataset: https://github.com/dsal/Satellite-Image-Analysis/
 Please read the discription of the uploaded release!
 
 ***Landsat 9 OLI-2 & TIRS-2 Spectral Bands***
-
+<sub>
 | Attribute                  | Band 1 | Band 2 | Band 3 | Band 4 | Band 5 | Band 6 | Band 7 | Band 8 | Band 9 | Band 10 | Band 11 |
 |-----------------------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|---------|---------|
 | **Name**                    | Ultra Blue (Coastal/Aerosol) | Blue | Green | Red | Near Infrared (NIR) | Shortwave IR (SWIR) 1 | Shortwave IR (SWIR) 2 | Panchromatic | Cirrus | TIRS 1 | TIRS 2 |
 | **Wavelength (µm)**         | 0.43–0.45 | 0.45–0.51 | 0.53–0.59 | 0.64–0.67 | 0.85–0.88 | 1.57–1.65 | 2.11–2.29 | 0.50–0.68 | 1.36–1.38 | 10.60–11.19 | 11.50–12.51 |
 | **Spatial Resolution (m)**  | 30 | 30 | 30 | 30 | 30 | 30 | 30 | 15 | 30 | 100 | 100 |
 | **Description**             | Designed for coastal water penetration and aerosol detection. | Useful for mapping water bodies, soil/vegetation discrimination. | Sensitive to vegetation vigor and chlorophyll absorption. | Key for vegetation discrimination and soil contrast. | Highlights healthy vegetation and water bodies. | Sensitive to moisture content in soil and vegetation. | Useful for detecting snow, clouds, and geology. | Provides high-resolution grayscale imagery. | Detects high-altitude cirrus clouds. | Thermal infrared band for surface temperature. | Thermal infrared band for surface temperature. |
-
+</sub>
 
 Landsat 9 essentially continues the Landsat 8 mission, but with OLI-2 and TIRS-2 instruments for improved radiometric stability.
 
