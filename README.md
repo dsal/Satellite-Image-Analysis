@@ -39,28 +39,11 @@ Dragonette-1 is Wyvern's hyperspectral imaging satellite providing 23 spectral b
 
 ***Wyvern Dragonette Hyperspectral Bands***
 
-| Band | Wavelength (nm) | FWHM (nm) | Notes             |
-| ---- | ---------------------- | --------- | ----------------- |
-| 1    | 503                    | 20.1      | Blue-green region |
-| 2    | 510                    | 20.4      | Blue-green region |
-| 3    | 519                    | 20.8      | Green region      |
-| 4    | 535                    | 21.4      | Green region      |
-| 5    | 549                    | 22.0      | Green region      |
-| 6    | 570                    | 22.8      | Yellow region     |
-| 7    | 584                    | 23.4      | Yellow region     |
-| 8    | 600                    | 24.0      | Orange region     |
-| 9    | 614                    | 24.6      | Orange region     |
-| 10   | 635                    | 25.4      | Red region        |
-| 11   | 649                    | 26.0      | Red region        |
-| 12   | 660                    | 26.4      | Red region        |
-| 13   | 669                    | 26.8      | Red region        |
-| 14   | 679                    | 27.2      | Red region        |
-| 15   | 690                    | 27.6      | Red region        |
-| 16   | 699                    | 28.0      | Red region        |
-| 17   | 711                    | 28.4      | Red-edge region   |
-| 18   | 722                    | 28.9      | Red-edge region   |
-| 19   | 734                    | 29.4      | Red-edge region   |
-| 20   | 750                    | 30.0      | NIR region        |
-| 21   | 764                    | 30.6      | NIR region        |
-| 22   | 782                    | 31.3      | NIR region        |
-| 23   | 799                    | 32.0      | NIR region        |
+# Hyperspectral Bands (Transposed)
+<sub>
+| Attribute         | Band 1 | Band 2 | Band 3 | Band 4 | Band 5 | Band 6 | Band 7 | Band 8 | Band 9 | Band 10 | Band 11 | Band 12 | Band 13 | Band 14 | Band 15 | Band 16 | Band 17 | Band 18 | Band 19 | Band 20 | Band 21 | Band 22 | Band 23 |
+|-------------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
+| **Wavelength (nm)** | 503 | 510 | 519 | 535 | 549 | 570 | 584 | 600 | 614 | 635 | 649 | 660 | 669 | 679 | 690 | 699 | 711 | 722 | 734 | 750 | 764 | 782 | 799 |
+| **FWHM (nm)**      | 20.1 | 20.4 | 20.8 | 21.4 | 22.0 | 22.8 | 23.4 | 24.0 | 24.6 | 25.4 | 26.0 | 26.4 | 26.8 | 27.2 | 27.6 | 28.0 | 28.4 | 28.9 | 29.4 | 30.0 | 30.6 | 31.3 | 32.0 |
+| **Notes**          | Blue-green region | Blue-green region | Green region | Green region | Green region | Yellow region | Yellow region | Orange region | Orange region | Red region | Red region | Red region | Red region | Red region | Red region | Red region | Red-edge region | Red-edge region | Red-edge region | NIR region | NIR region | NIR region | NIR region |
+</sub>
