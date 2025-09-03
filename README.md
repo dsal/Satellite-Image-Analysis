@@ -47,11 +47,10 @@ Dragonette-1 is Wyvern's hyperspectral imaging satellite providing 23 spectral b
 </sub>
 
 # Sentinel-2
-<sub>
 | Band        | B1                 | B2   | B3    | B4   | B5         | B6         | B7         | B8                 | B8A        | B9           | B10   | B11     | B12     |
 |------------|------------------|------|-------|------|------------|------------|------------|------------------|------------|-------------|-------|---------|---------|
 | **Name**   | Coastal/Aerosol   | Blue | Green | Red  | Red Edge 1 | Red Edge 2 | Red Edge 3 | Near Infrared (NIR) | Narrow NIR | Water Vapour | Cirrus | SWIR 1  | SWIR 2  |
 | **Wavelength (µm)** | 0.433–0.453      | 0.450–0.510 | 0.530–0.590 | 0.640–0.680 | 0.705–0.745 | 0.740–0.780 | 0.775–0.815 | 0.785–0.900      | 0.855–0.875 | 0.935–0.955 | 1.360–1.390 | 1.580–1.640 | 2.010–2.090 |
 | **Resolution (m)**  | 60               | 10   | 10    | 10   | 20         | 20         | 20         | 10               | 20         | 60           | 60    | 20      | 20      |
 | **Description** | Designed for coastal water penetration and aerosol detection. | Useful for mapping water bodies, soil/vegetation discrimination. | Sensitive to vegetation vigor and chlorophyll absorption. | Key for vegetation discrimination and soil contrast. | Useful for vegetation classification and monitoring. | Sensitive to vegetation stress and chlorophyll content. | Enhances vegetation monitoring and biomass estimation. | Highlights healthy vegetation and water bodies. | Provides additional info for vegetation analysis. | Useful for atmospheric water vapor estimation. | Detects high-altitude cirrus clouds. | Sensitive to moisture content in soil and vegetation. | Useful for detecting snow, clouds, and geology. |
-</sub>
+
