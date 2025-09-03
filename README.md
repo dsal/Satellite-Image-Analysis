@@ -48,6 +48,8 @@ Dragonette-1 is Wyvern's hyperspectral imaging satellite providing 23 spectral b
 
 # Sentinel-2
 <sub>
+# Sentinel-2 MSI Bands Overview (Transposed)
+
 | Band        | B1                 | B2   | B3    | B4   | B5         | B6         | B7         | B8                 | B8A        | B9           | B10   | B11     | B12     |
 |------------|------------------|------|-------|------|------------|------------|------------|------------------|------------|-------------|-------|---------|---------|
 | **Name**   | Coastal/Aerosol   | Blue | Green | Red  | Red Edge 1 | Red Edge 2 | Red Edge 3 | Near Infrared (NIR) | Narrow NIR | Water Vapour | Cirrus | SWIR 1  | SWIR 2  |
